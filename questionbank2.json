@@ -1,0 +1,22 @@
+{
+   "question": [
+
+      {
+       "id": "01",
+       "question": "What is the capital of Canada?",
+       "answer1": "Ontario",
+       "answer2": "Montral",
+       "answer3": "Ottowa",
+       "answer4": "Toronto"
+      },
+
+      {
+       "id": "02",
+       "question": "What is the capital of the United Kingdom?",
+       "answer1": "Bristol",
+       "answer2": "Dover",
+       "answer3": "Westminster",
+       "answer4": "London"
+      }
+   ]
+}
